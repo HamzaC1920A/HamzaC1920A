@@ -18,12 +18,24 @@ I'm Hamza, a Data Scientist Engineer with a strong background in developing and 
 - **Glasses Classification App**: An application using Flask and ResNet50 models to classify glasses by various characteristics.
 
 ### 🏆 Certificates
-- **Python for Data Science and Machine Learning Bootcamp (Udemy)**: Completed a comprehensive course covering Python programming, data manipulation with Pandas, data visualization with Matplotlib and Seaborn, and machine learning techniques with Scikit-Learn. Gained hands-on experience in building deep learning models with TensorFlow and Keras.
-- **[Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/9NQ7TWWETD7A)**: 
-- Defined and explained key concepts involved in data analytics including data, data analysis, and data ecosystems.
-- Conducted an analytical thinking self-assessment, providing specific examples of the application of analytical thinking.
-- Discussed the role of spreadsheets, query languages, and data visualization tools in data analytics.
-- Described the role of a data analyst with specific reference to job responsibilities.
+**Python for Data Science and Machine Learning Bootcamp (Udemy)**: Completed a comprehensive course covering Python programming, data manipulation with Pandas, data visualization with Matplotlib and Seaborn, and machine learning techniques with Scikit-Learn. Gained hands-on experience in building deep learning models with TensorFlow and Keras.
+  
+**[Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/9NQ7TWWETD7A)**: 
+- Key concepts in data analytics
+- Analytical thinking assessment
+- Role of spreadsheets, query languages, and visualization tools
+- Data analyst job responsibilities
+
+**[Python Project: Software Engineering and Image Manipulation](https://www.coursera.org/account/accomplishments/verify/KDK8GU6LFDDL)**: 
+- Inspect and use APIs and third-party libraries
+- Manipulate images with Pillow (cropping, resizing, recoloring, text overlay)
+- Detect text in images using Pytesseract for OCR
+
+**[Building a Fraud Detection Model with Vertex AI AutoML](https://www.coursera.org/account/accomplishments/verify/Y7RWYSJQXM87)**: 
+- Developed a fraud detection model using Vertex AI AutoML
+- Applied machine learning techniques to detect fraudulent activities
+- Leveraged Google Cloud's AutoML for model training and deployment
+
 
 ### 🛠️ Languages and Tools
 <p align="left">
