@@ -17,8 +17,13 @@ I'm Hamza, a Data Scientist Engineer with a strong background in developing and 
 ### 🚀 Projects
 - **Glasses Classification App**: An application using Flask and ResNet50 models to classify glasses by various characteristics.
 
-### 🏆 Achievements
+### 🏆 Certificates
 - **Python for Data Science and Machine Learning Bootcamp (Udemy)**: Completed a comprehensive course covering Python programming, data manipulation with Pandas, data visualization with Matplotlib and Seaborn, and machine learning techniques with Scikit-Learn. Gained hands-on experience in building deep learning models with TensorFlow and Keras.
+- **[Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/9NQ7TWWETD7A)**: 
+- Defined and explained key concepts involved in data analytics including data, data analysis, and data ecosystems.
+- Conducted an analytical thinking self-assessment, providing specific examples of the application of analytical thinking.
+- Discussed the role of spreadsheets, query languages, and data visualization tools in data analytics.
+- Described the role of a data analyst with specific reference to job responsibilities.
 
 ### 🛠️ Languages and Tools
 <p align="left">
